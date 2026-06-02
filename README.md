@@ -1,9 +1,10 @@
-<div align="center">
-  <h1 style="font-size: 3rem; color: #00ff88; font-family: monospace; text-shadow: 0 0 10px #00ff88; margin-bottom: 5px;">HARSHIT RAWAL</h1>
-  <p style="font-size: 1.25rem; color: #8892b0; margin-bottom: 20px;">Machine Learning Engineer • Neural Systems Developer</p>
-</div>
+<p align="center">
+  <img src="github_banner.png" alt="Harshit Rawal Banner" width="100%" />
+</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vasco1290&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/harshit-rawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vasco1290.github.io"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
@@ -11,25 +12,28 @@
 
 ---
 
-### ⚡ The Core Focus
+## 🙋‍♂️ About Me
 
-I design and build production-grade Machine Learning systems, scalable data pipelines, and real-time biophysical interfaces. My engineering philosophy centers on architectural efficiency, low-latency execution, and bringing theoretical ML models into stable, real-world deployment. 
+I am a Machine Learning Engineer focused on bridging the gap between theoretical research and production-grade software. I specialize in building high-throughput ML pipelines, real-time data acquisition layers for biophysical interfaces, and robust systems for automated threat detection and classification.
 
-I specialize in building cascading decision systems, optimizing feature engineering pipelines for multi-modal data, and structuring hardware-software ingestion loops to capture and process raw biological and system signals.
-
----
-
-### 🛠️ Technical Ecosystem
-
-*   **Languages:** `Python` • `C++` • `SQL` • `HTML/CSS`
-*   **Deep Learning & ML:** `PyTorch` • `Scikit-Learn` • `TensorFlow` • `LightGBM`
-*   **GenAI & LLMs:** `LangChain` • `Hugging Face` • `RAG Architectures` • `Vector Databases (ChromaDB)`
-*   **Backend & MLOps:** `FastAPI` • `Flask` • `Docker` • `Gunicorn` • `Waitress` • `SQLite` • `Git / GitHub` • `Linux`
-*   **IoT & Biophysical Hardware:** `Arduino` • `Raspberry Pi Pico` • `BioAmp EXG Pill` • `ADC / Ingestion Sensors` • `PCB Design`
+I focus heavily on:
+* **Production-Grade ML Pipelines:** Designing and optimizing high-performance feature engineering and inference servers.
+* **Biophysical Signal Processing:** Structuring low-latency hardware-software ingestion loops to capture and process EEG signals.
+* **Agentic GenAI & RAG:** Architecting context-aware LLM agents and security assistants using vector stores and orchestrators.
 
 ---
 
-### 📂 Featured Systems & Codebase
+## 🛠️ Language and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,sqlite,postgres,html,css,pytorch,tensorflow,sklearn,git,docker,linux,arduino,raspberrypi,vscode,fastapi,flask&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📂 Featured Systems & Codebase
 
 *   **🧠 [MindNav BCI](https://github.com/Sakib-Dalal/Mind-Nav)**  
     *A hardware-software hybrid BCI streaming neocortex pyramidal neuron EEG signals to control real-time navigation.*  
@@ -45,7 +49,13 @@ I specialize in building cascading decision systems, optimizing feature engineer
 
 ---
 
-### 🤝 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/harshit-rawal](https://linkedin.com/in/harshit-rawal)
-* 🌐 **Portfolio Website:** [vasco1290.github.io](https://vasco1290.github.io)
-* 📧 **Email:** [harshitrawal72@gmail.com](mailto:harshitrawal72@gmail.com)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vasco1290&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=2" alt="Harshit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vasco1290&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=2" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b&v=2" alt="Harshit's Streak Stats" width="98%" />
+</p>
