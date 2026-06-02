@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00ff88&height=150&section=header&text=HARSHIT%20RAWAL&fontSize=40&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00ff88&height=150&section=header&text=HARSHIT%20RAWAL&fontSize=40&fontColor=ffffff&v=1" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasco1290&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vasco1290&color=00ff88&style=flat-square&label=PROFILE+VIEWS&v=1" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/harshit-rawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,10 +49,10 @@ I build production-ready Machine Learning systems and real-time neural interface
 ### 📊 System Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasco1290&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937" alt="Harshit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco1290&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vasco1290&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=1" alt="Harshit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vasco1290&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b" alt="Harshit's Streak Stats" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b&v=1" alt="Harshit's Streak Stats" width="98%" />
 </p>
