@@ -1,7 +1,7 @@
 # 🧠 Harshit Rawal (Vasco1290)
 
 **Machine Learning Engineer specializing in Security AI & Neural Interfaces**  
-*Mumbai, India | B.Tech in Artificial Intelligence (Sanjay Ghodawat University)*
+*B.Tech in Artificial Intelligence and Machine Learning*
 
 ---
 
