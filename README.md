@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00ff88&height=150&section=header&text=HARSHIT%20RAWAL&fontSize=40&fontColor=ffffff&v=1" alt="Header Banner" />
-</p>
+<div align="center">
+  <h1 style="font-size: 3rem; color: #00ff88; font-family: monospace; text-shadow: 0 0 10px #00ff88; margin-bottom: 5px;">HARSHIT RAWAL</h1>
+  <p style="font-size: 1.25rem; color: #8892b0; margin-bottom: 20px;">Machine Learning Engineer • Neural Systems Developer</p>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasco1290&color=00ff88&style=flat-square&label=PROFILE+VIEWS&v=1" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/harshit-rawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vasco1290.github.io"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
@@ -14,19 +13,19 @@
 
 ### ⚡ The Core Focus
 
-I build production-ready Machine Learning systems and real-time neural interfaces. My engineering experience bridges commercial cybersecurity (architecting APK/URL malware detection pipelines) and biophysical signal processing (building 256 Hz data pipelines for EEG-based BCIs).
+I design and build production-grade Machine Learning systems, scalable data pipelines, and real-time biophysical interfaces. My engineering philosophy centers on architectural efficiency, low-latency execution, and bringing theoretical ML models into stable, real-world deployment. 
+
+I specialize in building cascading decision systems, optimizing feature engineering pipelines for multi-modal data, and structuring hardware-software ingestion loops to capture and process raw biological and system signals.
 
 ---
 
-### 🛠️ Specialized Ecosystem
+### 🛠️ Technical Ecosystem
 
-| Domain | Stack & Technologies |
-|---|---|
-| **Core Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" /> |
-| **Deep Learning & ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-3776AB?style=flat-square&logo=git&logoColor=white" /> |
-| **GenAI & NLP** | <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/ChromaDB-0052FF?style=flat-square&logo=google-cloud&logoColor=white" /> |
-| **Backend & MLOps** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
-| **IoT & Signals** | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" /> |
+*   **Languages:** `Python` • `C++` • `SQL` • `HTML/CSS`
+*   **Deep Learning & ML:** `PyTorch` • `Scikit-Learn` • `TensorFlow` • `LightGBM`
+*   **GenAI & LLMs:** `LangChain` • `Hugging Face` • `RAG Architectures` • `Vector Databases (ChromaDB)`
+*   **Backend & MLOps:** `FastAPI` • `Flask` • `Docker` • `Gunicorn` • `Waitress` • `SQLite` • `Git / GitHub` • `Linux`
+*   **IoT & Biophysical Hardware:** `Arduino` • `Raspberry Pi Pico` • `BioAmp EXG Pill` • `ADC / Ingestion Sensors` • `PCB Design`
 
 ---
 
@@ -46,13 +45,7 @@ I build production-ready Machine Learning systems and real-time neural interface
 
 ---
 
-### 📊 System Performance & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vasco1290&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=1" alt="Harshit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vasco1290&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=1" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b&v=1" alt="Harshit's Streak Stats" width="98%" />
-</p>
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/harshit-rawal](https://linkedin.com/in/harshit-rawal)
+* 🌐 **Portfolio Website:** [vasco1290.github.io](https://vasco1290.github.io)
+* 📧 **Email:** [harshitrawal72@gmail.com](mailto:harshitrawal72@gmail.com)
