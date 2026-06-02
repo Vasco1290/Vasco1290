@@ -7,9 +7,9 @@
 
 ### ⚡ Professional Summary
 
-I bridge the gap between AI research and production systems. My experience ranges from engineering core detection backends for a commercial antivirus (KavaX) handling high-accuracy APK and URL classification, to designing hardware-software data acquisition pipelines for real-time Brain-Computer Interfaces (BCIs). 
+I bridge the gap between AI research and production systems. My experience ranges from engineering core detection backends for a commercial products handling high-accuracy ML classification models, to designing hardware-software data acquisition pipelines for real-time Brain-Computer Interfaces (BCIs). 
 
-I am focused on **Production Machine Learning, LLM Systems Engineering (RAG, Agents), and Biophysical Signal Processing.**
+I am focused on **Production Machine Learning, LLM Systems Engineering (RAG, Agents), Advanced AI Engineering and Biophysical Signal Processing.**
 
 ---
 
