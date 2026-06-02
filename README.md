@@ -52,10 +52,9 @@ I focus heavily on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vasco1290&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=2" alt="Harshit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vasco1290&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=1f2937&v=2" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasco1290&bg_color=0a0a0a&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Harshit's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b&v=2" alt="Harshit's Streak Stats" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasco1290&theme=dark&background=0a0a0a&fire=00ff88&ring=00e5ff&currStreakLabel=00ff88&currStreakNum=ffffff&currStreak=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748b" alt="Harshit's Streak Stats" width="100%" />
 </p>
