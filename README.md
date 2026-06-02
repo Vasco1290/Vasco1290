@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=glitch&color=00ff88&height=150&section=header&text=HARSHIT%20RAWAL&fontSize=40&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00ff88&height=150&section=header&text=HARSHIT%20RAWAL&fontSize=40&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <p align="center">
