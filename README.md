@@ -24,10 +24,9 @@ I focus heavily on:
 ---
 
 ## 🛠️ Language and Tools
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,sqlite,postgres,html,css,pytorch,tensorflow,sklearn,git,docker,linux,arduino,raspberrypi,vscode,fastapi,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,sqlite,postgres,html,css,js,bash,pytorch,tensorflow,sklearn,numpy,pandas,jupyter,git,github,githubactions,docker,linux,aws,azure,gcp,arduino,raspberrypi,vscode,fastapi,flask,latex&theme=dark" />
   </a>
 </p>
 
