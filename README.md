@@ -137,16 +137,38 @@ not yet           real hardware
 
 ## 🛠️ Instruments
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,bash,pytorch,tensorflow,sklearn,arduino,raspberrypi,linux,docker,fastapi,flask,git,github,vscode,latex&perline=9&theme=dark" alt="Tools" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ESP32--S3-0a0a0a?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32-S3" />
+<table>
+<tr><td><code>languages</code></td><td>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+</td></tr>
+<tr><td><code>ml</code></td><td>
+  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/ONNX_Runtime-0a0a0a?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/MuJoCo-0a0a0a?style=flat-square" alt="MuJoCo" />
   <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+</td></tr>
+<tr><td><code>hardware</code></td><td>
+  <img src="https://img.shields.io/badge/ESP32--S3-0a0a0a?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32-S3" />
+  <img src="https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=00878F" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/KiCad-0a0a0a?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
-</p>
+  <img src="https://img.shields.io/badge/MuJoCo-0a0a0a?style=flat-square" alt="MuJoCo" />
+</td></tr>
+<tr><td><code>tools</code></td><td>
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+</td></tr>
+</table>
 
 <sub>Still tuning: Rust, MuJoCo, KiCad.</sub>
 
