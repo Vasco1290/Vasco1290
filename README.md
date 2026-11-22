@@ -18,6 +18,10 @@
 
 I'm an AI&ML graduate. I got curious about how the brain works and never quite recovered. I don't stick to one layer; I like building intelligent systems from the math to the metal. I am learning how to build stuff mostly in simulation, because hardware is expensive and I'm not. No GPU was harmed in the making of any of it, mostly because I don't own one.
 
+<p align="center">
+  <img src="assets/pinout.gif" width="260" alt="Anime character clenching his fists, sweating" />
+</p>
+
 ---
 
 ## 🔬 Specimens
