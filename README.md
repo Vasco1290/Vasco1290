@@ -19,7 +19,7 @@
 I'm an AI&ML graduate. I got curious about how the brain works and never quite recovered. I don't stick to one layer; I like building intelligent systems from the math to the metal. I am learning how to build stuff mostly in simulation, because hardware is expensive and I'm not. No GPU was harmed in the making of any of it, mostly because I don't own one.
 
 <p align="center">
-  <img src="assets/pinout.gif" width="260" alt="Anime character clenching his fists, sweating" />
+  <img src="assets/pinout.gif" width="260" alt="Joseph Joestar goofing around" />
 </p>
 
 ---
@@ -143,34 +143,34 @@ not yet           real hardware
 
 <table>
 <tr><td><code>languages</code></td><td>
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" height="28" />
-  <img src="https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="28" />
-  <img src="https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" height="28" />
-  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" height="28" />
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-0a0a0a?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
 </td></tr>
 <tr><td><code>ml</code></td><td>
-  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" height="28" />
-  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" height="28" />
-  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" height="28" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-0a0a0a?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" height="28" />
+  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-0a0a0a?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
 </td></tr>
 <tr><td><code>hardware</code></td><td>
-  <img src="https://img.shields.io/badge/ESP32--S3-0a0a0a?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32-S3" height="28" />
-  <img src="https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=00878F" alt="Arduino" height="28" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" height="28" />
-  <img src="https://img.shields.io/badge/KiCad-0a0a0a?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" height="28" />
-  <img src="https://img.shields.io/badge/MuJoCo-0a0a0a?style=flat-square" alt="MuJoCo" height="28" />
+  <img src="https://img.shields.io/badge/ESP32--S3-0a0a0a?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32-S3" />
+  <img src="https://img.shields.io/badge/Arduino-0a0a0a?style=for-the-badge&logo=arduino&logoColor=00878F" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0a0a0a?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/KiCad-0a0a0a?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/MuJoCo-0a0a0a?style=for-the-badge" alt="MuJoCo" />
 </td></tr>
 <tr><td><code>tools</code></td><td>
-  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" height="28" />
-  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" height="28" />
-  <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" height="28" />
-  <img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="28" />
-  <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28" />
-  <img src="https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="28" />
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LaTeX-0a0a0a?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </td></tr>
 </table>
 
